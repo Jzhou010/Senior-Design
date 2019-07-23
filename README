@@ -4,7 +4,7 @@ This is my senior design project for my undergraudate degree in Electrical Engin
 For this project, our team was to create a system that could autonomously fly a drone to multiple designated GPS locations, and take
 images of ground targets which are used for scoring. The system is aimed to assist military personel during training sessions. Ideally,
 once soldiers are done shooting projectiles, the system would direct a drone to the targets to take images autonomously. Once the images are taken, the base
-system would process the images to give feedbacks in the form of numerical value on how well the soldiers did. 
+system will process the images to give feedbacks in the form of numerical values on how well the soldiers did. 
 
 
 Below is the link to the youtube video which contains a demo on our senior design project. 
